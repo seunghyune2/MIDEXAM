@@ -16,7 +16,7 @@ def start(mine,yours):
         return result
 
 while 1 :
-    me = input('찌, 묵, 빠 를 선택하거나 그만하고싶다면 "그만"를 입력하세용>>>>')
+    me = input('찌, 묵, 빠 를 선택하거나 그만하고싶다면 "그만" 를 입력하세용>>>>')
     if me =='그만':
         break
     elif (me !='찌')and (me !='묵') and (me !='빠'):
